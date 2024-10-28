@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **REACT,NODE**
 
-- 👯 I’m looking to collaborate on **AIML PROJECTS**
+- 👯 I’m looking to collaborate on **FULL-STACK DEVELOPMENT PROJECTS **
 
 - 📫 How to reach me **jaideepchowdary2@gmail.com**
 
