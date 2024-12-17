@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm nagajaideepchowdary</h1>
-<h3 align="center">Aspiring Software Engineer Intern | Java, Python, Full-Stack Dev | Open Source Contributor (WOB & GSSOC'24) | ACM Member, DSA Enthusiast | Microsoft Future Ready Intern | NASA Award Recipient</h3>
+<h3 align="center">Aspiring Software Engineer Intern | Java, Python, Full-Stack Dev | Open Source Contributor (WOB & GSSOC'24) | ACM Vice-Chair, DSA Enthusiast | Microsoft Future Ready Intern | NASA Award Recipient</h3>
 
-- 🌱 I’m currently learning **REACT,NODE**
+- 🌱 I’m currently learning REACT,NODE JS
 
-- 👯 I’m looking to collaborate on **FULL-STACK DEVELOPMENT PROJECTS **
+- 👯 I’m looking to collaborate on FULL-STACK DEVELOPMENT PROJECTS 
 
 - 📫 How to reach me **jaideepchowdary2@gmail.com**
 
