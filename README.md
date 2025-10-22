@@ -1,23 +1,114 @@
-<h1 align="center">Hi 👋, I'm nagajaideepchowdary</h1>
-<h3 align="center">Aspiring Software Engineer Intern | Java, Python, Full-Stack Dev | Open Source Contributor (WOB & GSSOC'24) | ACM Vice-Chair, DSA Enthusiast | Microsoft Future Ready Intern | NASA Award Recipient</h3>
+<h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/naga-jaideep-c-8b6040285/">Nagajaideep Chowdary 👋</a></h1>
 
-- 🌱 I’m currently learning REACT,NODE JS
+<h3 align="center">🚀 Aspiring Software Engineer | Java • Python • Full-Stack Dev | ACM Member | NASA Award Winner</h3>
 
-- 👯 I’m looking to collaborate on FULL-STACK DEVELOPMENT PROJECTS 
-
-- 📫 How to reach me **jaideepchowdary2@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/naga-jaideep-chowdary-8b6040285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naga-jaideep-chowdary-8b6040285" height="30" width="40" /></a>
-<a href="https://instagram.com/nagajaideepchowdary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nagajaideepchowdary" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:jaideepchowdary2@gmail.com"><img src="https://img.shields.io/badge/Email-jaideepchowdary2%40gmail.com-red?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/naga-jaideep-c-8b6040285/"><img src="https://img.shields.io/badge/LinkedIn-NagaJaideep-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/nagajaideep"><img src="https://img.shields.io/badge/GitHub-nagajaideep-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://leetcode.com/u/jaideepchowdary2/"><img src="https://img.shields.io/badge/LeetCode-jaideepchowdary2-orange?style=for-the-badge&logo=leetcode"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagajaideep&show_icons=true&locale=en&layout=compact" alt="nagajaideep" /></p>
+## 📊 Visual Skill Metrics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagajaideep&show_icons=true&locale=en" alt="nagajaideep" /></p>
+| Area | Progress |
+|------|-----------|
+| **CGPA — 9.24 / 10** | ▰▰▰▰▰▰▰▰▰▱ 92% |
+| **DSA & Problem Solving** | ▰▰▰▰▰▰▰▰▱▱ 85% |
+| **Full-Stack (MERN)** | ▰▰▰▰▰▰▱▱▱▱ 70% |
+| **Machine Learning & Research** | ▰▰▰▰▰▰▱▱▱▱ 70% |
+| **Cloud (AWS / Azure)** | ▰▰▰▰▰▱▱▱▱▱ 60% |
+| **Open Source Contributions** | ▰▰▰▰▰▰▱▱▱▱ 70% |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagajaideep&" alt="nagajaideep" /></p>
+> 🎯 *Constantly learning, building, and contributing to open-source & research.*
+
+---
+
+## 🧠 About Me
+- 🎓 B.Tech CSE (AIML) @ **MGIT, Hyderabad** (2023–2027)  
+- 💼 Microsoft Future Ready Intern · Former Java Intern @ Oasis Infobyte  
+- 🧪 Research Intern @ **IIT Roorkee** — Land Cover Classification (81.68% accuracy)  
+- 🪐 **NASA Space Settlement Contest Winner**  
+- 💬 Focused on **AI, Cloud, and Full-Stack Web Development**  
+- 🧩 Contributor @ **GSSoC & Winter of Blockchain (5+ PRs merged)**  
+
+---
+
+## 💻 Tech Stack
+
+**Languages:**  
+`Java` · `Python` · `C` · `SQL` · `JavaScript` · `HTML/CSS`  
+
+**Frameworks / Tools:**  
+`React` · `Node.js` · `Express` · `Flask` · `JUnit` · `OpenCV` · `TensorFlow`  
+
+**Cloud & DevOps:**  
+`AWS` · `Azure` · `Render` · `Vercel`  
+
+**Libraries:**  
+`Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn`
+
+---
+
+## 🧩 Featured Projects
+
+### 🎮 [Gesture Presentation System](https://github.com/nagajaideep/Gesture-Presentation)
+> *Interactive Presentation Control Using Hand Gestures*  
+🏆 3rd place in internal hackathon. Built with **Python + OpenCV** to control slides via gestures.
+
+### 🩺 [Sehatsaathi](https://github.com/nagajaideep/Sehatsaathi)
+> *Healthcare platform for doctor video consultations & telemedicine*  
+Integrates **Practo / Apollo APIs**, deployed on AWS with React frontend and Node backend.
+
+### 🍳 [Kitchen Talk Recorder](https://huggingface.co/spaces/nagajaideep/Kitchen-Talk-Recorder)
+> *Telugu voice-to-text recipe transcription app*  
+Built using **Streamlit + Whisper-tiny ASR**, hosted on **Hugging Face Spaces**.
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nagajaideep&show_icons=true&theme=tokyonight&hide_border=true">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nagajaideep&theme=tokyonight&hide_border=true">
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagajaideep&layout=compact&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nagajaideep&theme=algolia&no-frame=true&margin-w=15&margin-h=15">
+</p>
+
+---
+
+## 🔥 Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nagajaideep&theme=react-dark&hide_border=true&area=true">
+</p>
+
+---
+
+## 🌟 Achievements
+- 🧠 Research Paper (in progress): *Hybrid CNN + SVM for Skin Cancer Classification*  
+- 🧩 OSS Intern @ **ASTx Project (Open Sciences Lab)** — optimized transpiler efficiency by +70%  
+- 🧑‍💻 5+ PRs merged during Winter of Blockchain  
+- 🧭 ACM Student Member @ MGIT — expanded peer network by 40%
+
+---
+
+## 📫 Let’s Connect
+📧 **jaideepchowdary2@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/naga-jaideep-c-8b6040285/) • [GitHub](https://github.com/nagajaideep) • [LeetCode](https://leetcode.com/u/jaideepchowdary2/)
+
+---
+
+<p align="center">✨ “Building, learning, and exploring — one repo at a time.” ✨</p>
