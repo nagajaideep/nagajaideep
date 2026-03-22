@@ -1,114 +1,76 @@
-<h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/naga-jaideep-c-8b6040285/">Nagajaideep Chowdary 👋</a></h1>
+# Naga Jaideep Chowdary
 
-<h3 align="center">🚀 Aspiring Software Engineer | Java • Python • Full-Stack Dev | ACM Member | NASA Award Winner</h3>
+**AI/ML Researcher · Software Engineer · Builder**  
+B.Tech CSE (AIML) @ MGIT, Hyderabad · 2023–2027  
+Research Intern @ IIT Roorkee · CGPA 9.24/10
 
-<p align="center">
-  <a href="mailto:jaideepchowdary2@gmail.com"><img src="https://img.shields.io/badge/Email-jaideepchowdary2%40gmail.com-red?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/naga-jaideep-c-8b6040285/"><img src="https://img.shields.io/badge/LinkedIn-NagaJaideep-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/nagajaideep"><img src="https://img.shields.io/badge/GitHub-nagajaideep-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://leetcode.com/u/jaideepchowdary2/"><img src="https://img.shields.io/badge/LeetCode-jaideepchowdary2-orange?style=for-the-badge&logo=leetcode"></a>
-</p>
-
----
-
-## 📊 Visual Skill Metrics
-
-| Area | Progress |
-|------|-----------|
-| **CGPA — 9.24 / 10** | ▰▰▰▰▰▰▰▰▰▱ 92% |
-| **DSA & Problem Solving** | ▰▰▰▰▰▰▰▰▱▱ 85% |
-| **Full-Stack (MERN)** | ▰▰▰▰▰▰▱▱▱▱ 70% |
-| **Machine Learning & Research** | ▰▰▰▰▰▰▱▱▱▱ 70% |
-| **Cloud (AWS / Azure)** | ▰▰▰▰▰▱▱▱▱▱ 60% |
-| **Open Source Contributions** | ▰▰▰▰▰▰▱▱▱▱ 70% |
-
-> 🎯 *Constantly learning, building, and contributing to open-source & research.*
+[![Email](https://img.shields.io/badge/Email-jaideepchowdary2%40gmail.com-red?style=flat-square)](mailto:jaideepchowdary2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NagaJaideep-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/naga-jaideep-c-8b6040285/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-jaideepchowdary2-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/jaideepchowdary2/)
 
 ---
 
-## 🧠 About Me
-- 🎓 B.Tech CSE (AIML) @ **MGIT, Hyderabad** (2023–2027)  
-- 💼 Microsoft Future Ready Intern · Former Java Intern @ Oasis Infobyte  
-- 🧪 Research Intern @ **IIT Roorkee** — Land Cover Classification (81.68% accuracy)  
-- 🪐 **NASA Space Settlement Contest Winner**  
-- 💬 Focused on **AI, Cloud, and Full-Stack Web Development**  
-- 🧩 Contributor @ **GSSoC & Winter of Blockchain (5+ PRs merged)**  
+## What I'm working on
+
+**BioAge-Net** — Biological age estimation from chest X-rays using ResNet-50 with clinical risk stratification. Deep learning applied to medical imaging; currently in peer review.
+
+**MILK10k Skin Lesion Classifier** — Dual-stream cross-modal fusion network combining dermoscopic images, clinical images, and patient metadata. Architecture: EfficientNet-V2 encoders + cross-modal transformer fusion + Focal Loss. Benchmark metric: Macro F1.
+
+**AI Customer Support Agent** — Router-based multi-agent architecture that classifies user intent and delegates to specialized sub-agents. Built in TypeScript. Deployed and production-ready.
 
 ---
 
-## 💻 Tech Stack
+## Research & Internships
 
-**Languages:**  
-`Java` · `Python` · `C` · `SQL` · `JavaScript` · `HTML/CSS`  
-
-**Frameworks / Tools:**  
-`React` · `Node.js` · `Express` · `Flask` · `JUnit` · `OpenCV` · `TensorFlow`  
-
-**Cloud & DevOps:**  
-`AWS` · `Azure` · `Render` · `Vercel`  
-
-**Libraries:**  
-`Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn`
+| Role | Where | What |
+|---|---|---|
+| Research Intern | IIT Roorkee | Land cover classification — 81.68% accuracy |
+| Research (in progress) | MGIT | BioAge-Net: ResNet-50 biological age estimation from CXRs |
+| Research (in progress) | MGIT | Skin lesion classification — CNN + SVM hybrid approach |
+| OSS Intern | Open Sciences Lab (ASTx) | Optimized transpiler efficiency by +70% |
+| Intern | Microsoft Future Ready | Cloud & AI fundamentals |
 
 ---
 
-## 🧩 Featured Projects
+## Selected Projects
 
-### 🎮 [Gesture Presentation System](https://github.com/nagajaideep/Gesture-Presentation)
-> *Interactive Presentation Control Using Hand Gestures*  
-🏆 3rd place in internal hackathon. Built with **Python + OpenCV** to control slides via gestures.
+### [AI-Powered Customer Support](https://github.com/nagajaideep/AI-powered-customer-support-)
+Multi-agent system with a router that classifies intent and dispatches to specialized agents. TypeScript. Demonstrates practical AI systems architecture beyond single-prompt wrappers.
 
-### 🩺 [Sehatsaathi](https://github.com/nagajaideep/Sehatsaathi)
-> *Healthcare platform for doctor video consultations & telemedicine*  
-Integrates **Practo / Apollo APIs**, deployed on AWS with React frontend and Node backend.
+### [Restaurant Booking Voice Agent](https://github.com/nagajaideep/restaurant-booking-voice-agent)
+Voice-enabled booking system over MERN stack. End-to-end: speech input → NLP → DB write → confirmation.
 
-### 🍳 [Kitchen Talk Recorder](https://huggingface.co/spaces/nagajaideep/Kitchen-Talk-Recorder)
-> *Telugu voice-to-text recipe transcription app*  
-Built using **Streamlit + Whisper-tiny ASR**, hosted on **Hugging Face Spaces**.
+### [Kitchen Talk Recorder](https://huggingface.co/spaces/nagajaideep/Kitchen-Talk-Recorder)
+Telugu voice-to-text transcription for recipes using Whisper-tiny ASR + Streamlit. Live on Hugging Face Spaces.
 
----
-
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nagajaideep&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=nagajaideep&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagajaideep&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### [Gesture Presentation System](https://github.com/nagajaideep/Gesture-Presentation)
+Real-time hand gesture control for slide navigation using Python + OpenCV. 3rd place, internal hackathon.
 
 ---
 
-## 🏆 GitHub Trophies
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nagajaideep&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
----
-
-## 🔥 Contribution Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nagajaideep&theme=react-dark&hide_border=true&area=true" />
-</p>
+**ML / AI:** PyTorch · TensorFlow · Scikit-learn · OpenCV · Hugging Face · Whisper  
+**Backend:** Python · Flask · Node.js · Express · Java  
+**Frontend:** React · JavaScript · HTML/CSS  
+**Cloud / Infra:** AWS · Azure · Vercel · Render  
+**Data:** Pandas · NumPy · Matplotlib · SQL
 
 ---
 
-## 🌟 Achievements
-- 🧠 Research Paper (in progress): *Hybrid CNN + SVM for Skin Cancer Classification*  
-- 🧩 OSS Intern @ **ASTx Project (Open Sciences Lab)** — optimized transpiler efficiency by +70%  
-- 🧑‍💻 5+ PRs merged during Winter of Blockchain  
-- 🧭 ACM Student Member @ MGIT — expanded peer network by 40%
+## Open Source
+
+Active contributor across GSSoC '24 and Winter of Blockchain.  
+Notable: [data-umbrella/du-event-board](https://github.com/data-umbrella/du-event-board) — added full date filtering feature (+457 lines, 4-comment review cycle).  
+5+ PRs merged. Contributions to [arxlang/astx](https://github.com/arxlang/astx) compiler project.
 
 ---
 
-## 📫 Let’s Connect
-📧 **jaideepchowdary2@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/naga-jaideep-c-8b6040285/) • [GitHub](https://github.com/nagajaideep) • [LeetCode](https://leetcode.com/u/jaideepchowdary2/)
+## DSA
+
+Active on LeetCode and CodeChef. Focused on graph algorithms, DP, and system design fundamentals.  
+[→ LeetCode profile](https://leetcode.com/u/jaideepchowdary2/)
 
 ---
 
-<p align="center">✨ “Building, learning, and exploring — one repo at a time.” ✨</p>
+*Open to SWE internships and AI/ML research roles. Based in Hyderabad.*
