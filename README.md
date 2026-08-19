@@ -8,7 +8,7 @@ B.Tech CSE (AIML) · MGIT · 2023–2027 · CGPA 9.24/10
   <a href="mailto:jaideepchowdary2@gmail.com">
     <img src="https://img.shields.io/badge/Email-jaideepchowdary2%40gmail.com-red?style=flat-square" />
   </a>
-  <a href="https://www.linkedin.com/in/naga-jaideep-c-8b6040285/">
+  <a href="https://linkedin.com/in/nagajaideepchowdary">
     <img src="https://img.shields.io/badge/LinkedIn-NagaJaideep-0A66C2?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://github.com/nagajaideep">
@@ -60,19 +60,14 @@ I'm currently seeking **Software Engineering, Backend, AI/ML Engineering, and AI
 ---
 
 ## Selected Engineering Projects
-### [YT Smart Speed — Intelligent Chrome Extension](https://github.com/nagajaideep/yt-speed-extension)
 
-**JavaScript · Manifest V3 · Chrome APIs**
+### [AI-Powered Customer Support Agent](https://github.com/nagajaideep/AI-powered-customer-support-)
 
-- Uses YouTube's Most Replayed heatmap to derive adaptive playback speed.
-- Implements browser-side processing using Chrome APIs and DOM/SVG fallbacks.
-### RouteIQ — NLP Query Routing Engine
+**Multi-Agent Systems · TypeScript · LLM Routing · PostgreSQL**
 
-**FastAPI · DistilBERT · Python · NLP**
-
-- Fine-tuned a DistilBERT intent classifier for automated query routing.
-- Served predictions through a FastAPI REST API.
-- Designed for low-latency classification and automated ticket routing.
+- Built a router-based multi-agent architecture that classifies user intent and delegates requests to specialized support, order, and billing agents.
+- Designed modular tool-calling workflows with shared conversational context and database-backed operations.
+- Structured the system using separation of concerns between routing, agents, services, and data access.
 
 ### ShiftCV — AI Resume Transformer
 
@@ -82,6 +77,14 @@ I'm currently seeking **Software Engineering, Backend, AI/ML Engineering, and AI
 - Combines frontend, backend, database, and AI components into a complete application.
 - Focused on structured document processing and automated resume generation.
 
+### RouteIQ — NLP Query Routing Engine
+
+**FastAPI · DistilBERT · Python · NLP**
+
+- Fine-tuned a DistilBERT intent classifier for automated query routing.
+- Served predictions through a FastAPI REST API.
+- Designed for low-latency classification and automated ticket routing.
+
 ### Multilingual Recipe Translation System
 
 **mBART · MarianMT · Python · NLP**
@@ -89,6 +92,13 @@ I'm currently seeking **Software Engineering, Backend, AI/ML Engineering, and AI
 - Worked on Transformer-based multilingual translation for Indic-language applications.
 - Led data collection, annotation, preprocessing, and model integration.
 - Worked with large-scale multilingual datasets and low-resource NLP.
+
+### [YT Smart Speed — Intelligent Chrome Extension](https://github.com/nagajaideep/yt-speed-extension)
+
+**JavaScript · Manifest V3 · Chrome APIs**
+
+- Uses YouTube's Most Replayed heatmap to derive adaptive playback speed.
+- Implements browser-side processing using Chrome APIs and DOM/SVG fallbacks.
 
 ### [Restaurant Booking Voice Agent](https://github.com/nagajaideep/restaurant-booking-voice-agent)
 
@@ -139,7 +149,7 @@ I'm currently seeking **Software Engineering, Backend, AI/ML Engineering, and AI
 
 - Developed a dual-head architecture for brain tumor classification and severity prediction.
 - Used preprocessing, augmentation, brain-region cropping, and explainability.
-- Achieved strong classification and risk-prediction performance.
+- Achieved 91.12% classification accuracy and 90.98% weighted F1; the risk head achieved 92.50% accuracy.
 - Accepted at ISED 2026.
 
 ### Urban Land Surface Temperature & Land Cover Classification
@@ -218,20 +228,20 @@ My current research interests include:
 
 ## Technical Stack
 
+### Software Engineering / Backend
+`Python` `Java` `FastAPI` `Flask` `Node.js` `Express` `REST APIs` `PostgreSQL`
+
 ### AI / ML
 `Python` `PyTorch` `TensorFlow` `scikit-learn` `Hugging Face Transformers` `NLP` `Computer Vision` `Multimodal Learning`
 
 ### LLMs / Generative AI
 `Large Language Models` `Transformers` `LLM Evaluation` `Fine-tuning` `AI Agents` `Generative AI`
 
-### Backend / Software Engineering
-`Python` `Java` `FastAPI` `Flask` `Node.js` `Express` `REST APIs` `PostgreSQL`
+### Data / Research
+`Pandas` `NumPy` `SciPy` `OpenCV` `Google Earth Engine` `Statistical Analysis`
 
 ### Frontend
 `React` `JavaScript` `TypeScript` `HTML/CSS`
-
-### Data / Research
-`Pandas` `NumPy` `SciPy` `OpenCV` `Google Earth Engine` `Statistical Analysis`
 
 ### Cloud / DevOps
 `AWS` `Azure` `Git` `GitHub` `GitHub Actions` `CI/CD` `Docker`
@@ -272,7 +282,7 @@ My current research interests include:
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagajaideep&show_icons=true&theme=default&hide_border=true&hide=stars" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nagajaideep&show_icons=true&theme=default&hide_border=true&hide=stars,forks" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagajaideep&layout=compact&theme=default&hide_border=true" height="165" />
 </p>
 
